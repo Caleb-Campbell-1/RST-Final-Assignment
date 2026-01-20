@@ -4,7 +4,7 @@
 // 
 // Created on: Jan 2026
 // 
-// This program makes the <icrobit act like a flashlight
+// This program makes the microbit act like a flashlight
 input.onButtonPressed(Button.A, function () {
     basic.showLeds(`
         # # # # #
